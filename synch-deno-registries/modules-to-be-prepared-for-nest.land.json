@@ -1,0 +1,18 @@
+[
+    {
+        "denoModuleResult": {
+            "name": "lodash",
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "star_count": 46893
+        },
+        "repository": ""
+    },
+    {
+        "denoModuleResult": {
+            "name": "date_fns",
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "star_count": 23975
+        },
+        "repository": ""
+    }
+]

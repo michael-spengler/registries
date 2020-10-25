@@ -1,0 +1,34 @@
+[
+    {
+        "denoModuleResult": {
+            "name": "lodash",
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "star_count": 46893
+        },
+        "repository": "https://github.com/lodash/lodash"
+    },
+    {
+        "denoModuleResult": {
+            "name": "date_fns",
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "star_count": 23975
+        },
+        "repository": "https://github.com/date-fns/date-fns"
+    },
+    {
+        "denoModuleResult": {
+            "name": "lodash",
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "star_count": 46893
+        },
+        "repository": "https://github.com/lodash/lodash"
+    },
+    {
+        "denoModuleResult": {
+            "name": "date_fns",
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "star_count": 23975
+        },
+        "repository": "https://github.com/date-fns/date-fns"
+    }
+]
