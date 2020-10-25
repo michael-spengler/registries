@@ -3,3 +3,10 @@ This module helps to synchronize Deno registries - e.g. https://deno.land and ht
 
 ## Usage Example
 
+```ts
+import { ModuleInfoProvider } from 'https://deno.land/x/registries/module-info-provider.ts'
+
+const repository = await ModuleInfoProvider.getRepository('sleep')
+
+console.log(repository)
+```
