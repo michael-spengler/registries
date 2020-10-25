@@ -19,13 +19,28 @@ export async function getModulesMissingInNestLand() {
     const modulesInNestLand = JSON.parse(await Persistence.readFromLocalFile("./synch-deno-registries/nest.land-modules.json"))
 
     const missing = []
+    const eggsForMissingModules = []
+
     for (const moduleInDeno of modulesInDenoLand) {
         if (modulesInNestLand.filter((m: any) => m.name === moduleInDeno.denoModuleResult.name)[0] === undefined) {
             missing.push(moduleInDeno)
+            const eggJSON = {
+                name: moduleInDeno.denoModuleResult.name,
+                description: moduleInDeno.denoModuleResult.description,
+                homepage: moduleInDeno.repository,
+                files: [
+                    "./**/*.ts",
+                    "README.md"
+                ],
+                entry: "./mod.ts"
+            }
+            eggsForMissingModules.push(eggJSON)
+            console.log(eggJSON)
         }
     }
 
     await Persistence.saveToLocalFile("./synch-deno-registries/modules-missing-on-nest.land.json", JSON.stringify(missing))
+    await Persistence.saveToLocalFile("./synch-deno-registries/eggs-for-missing-modules.json", JSON.stringify(eggsForMissingModules))
 
     console.log(missing.length)
 

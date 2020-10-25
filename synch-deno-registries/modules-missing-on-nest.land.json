@@ -7492,5 +7492,269 @@
             "star_count": 94
         },
         "repository": "https://github.com/chaijs/type-detect"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denox",
+            "description": "Script runner and workspace configuration for Deno",
+            "star_count": 93
+        },
+        "repository": "https://github.com/bentoumitech/denox"
+    },
+    {
+        "denoModuleResult": {
+            "name": "y18n",
+            "description": ":ledger: the bare-bones i18n library used by yargs",
+            "star_count": 88
+        },
+        "repository": "https://github.com/yargs/y18n"
+    },
+    {
+        "denoModuleResult": {
+            "name": "rubico",
+            "description": "🏞 [a]synchronous functional programming",
+            "star_count": 84
+        },
+        "repository": "https://github.com/a-synchronous/rubico"
+    },
+    {
+        "denoModuleResult": {
+            "name": "reno",
+            "description": "A thin, testable routing library designed to sit on top of Deno's standard HTTP module",
+            "star_count": 84
+        },
+        "repository": "https://github.com/reno-router/reno"
+    },
+    {
+        "denoModuleResult": {
+            "name": "keycode",
+            "description": "A javascript package with key code constants.",
+            "star_count": 83
+        },
+        "repository": "https://github.com/kabirbaidhya/keycode-js"
+    },
+    {
+        "denoModuleResult": {
+            "name": "dejs",
+            "description": "ejs template engine for deno.",
+            "star_count": 83
+        },
+        "repository": "https://github.com/syumai/dejs"
+    },
+    {
+        "denoModuleResult": {
+            "name": "udd",
+            "description": "Update Deno Dependencies - update dependency urls to their latest published versions",
+            "star_count": 79
+        },
+        "repository": "https://github.com/hayd/deno-udd"
+    },
+    {
+        "denoModuleResult": {
+            "name": "easy_soap_request",
+            "description": "Small Node.js library to make SOAP requests easier",
+            "star_count": 79
+        },
+        "repository": "https://github.com/circa10a/easy-soap-request"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denotrain",
+            "description": "Web framework for Deno with often-used functions included",
+            "star_count": 77
+        },
+        "repository": "https://github.com/Caesar2011/denotrain"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denoflate",
+            "description": "WebAssembly powered Deflate/Gzip/Zlib compression for Deno, written in Rust.",
+            "star_count": 77
+        },
+        "repository": "https://github.com/hazae41/denoflate"
+    },
+    {
+        "denoModuleResult": {
+            "name": "escalade",
+            "description": "A tiny (183B to 210B) and fast utility to ascend parent directories",
+            "star_count": 76
+        },
+        "repository": "https://github.com/lukeed/escalade"
+    },
+    {
+        "denoModuleResult": {
+            "name": "text_clipper",
+            "description": "Fast and correct clip functions for HTML and plain text",
+            "star_count": 74
+        },
+        "repository": "https://github.com/arendjr/text-clipper"
+    },
+    {
+        "denoModuleResult": {
+            "name": "dso",
+            "description": "Simple Orm library for Deno based on deno_mysql",
+            "star_count": 74
+        },
+        "repository": "https://github.com/manyuanrong/dso"
+    },
+    {
+        "denoModuleResult": {
+            "name": "azure_functions",
+            "description": "Run Deno 🦕 on Azure Functions ⚡️",
+            "star_count": 73
+        },
+        "repository": "https://github.com/anthonychu/azure-functions-deno-worker"
+    },
+    {
+        "denoModuleResult": {
+            "name": "fen",
+            "description": "a simple web framework for deno",
+            "star_count": 72
+        },
+        "repository": "https://github.com/fen-land/deno-fen"
+    },
+    {
+        "denoModuleResult": {
+            "name": "i18next_http_backend",
+            "description": "i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.",
+            "star_count": 71
+        },
+        "repository": "https://github.com/i18next/i18next-http-backend"
+    },
+    {
+        "denoModuleResult": {
+            "name": "nexo",
+            "description": "Preact apps with Deno",
+            "star_count": 70
+        },
+        "repository": "https://github.com/nexojs/nexo"
+    },
+    {
+        "denoModuleResult": {
+            "name": "coward",
+            "description": "🐔 Coward is a Deno module for easy interaction with the Discord API.",
+            "star_count": 69
+        },
+        "repository": "https://github.com/fox-cat/coward"
+    },
+    {
+        "denoModuleResult": {
+            "name": "typeorm",
+            "description": "Forked from https://github.com/typeorm/typeorm",
+            "star_count": 62
+        },
+        "repository": "https://github.com/denolib/typeorm"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denofun",
+            "description": "Small utility library containing functions, monads and other fun stuff.",
+            "star_count": 62
+        },
+        "repository": "https://github.com/galkowskit/denofun"
+    },
+    {
+        "denoModuleResult": {
+            "name": "dactyl",
+            "description": "Web framework for Deno, built on top of Oak 🦇",
+            "star_count": 61
+        },
+        "repository": "https://github.com/liamtan28/dactyl"
+    },
+    {
+        "denoModuleResult": {
+            "name": "cotton",
+            "description": "SQL Database Toolkit for Deno",
+            "star_count": 60
+        },
+        "repository": "https://github.com/rahmanfadhil/cotton"
+    },
+    {
+        "denoModuleResult": {
+            "name": "fastro_function",
+            "description": "High performance backend module. Built on top of Deno standard library. Written in TypeScript.",
+            "star_count": 56
+        },
+        "repository": "https://github.com/fastrodev/fastro"
+    },
+    {
+        "denoModuleResult": {
+            "name": "fastro",
+            "description": "High performance deno web framework. Written in Typescript",
+            "star_count": 56
+        },
+        "repository": "https://github.com/fastrojs/fastro"
+    },
+    {
+        "denoModuleResult": {
+            "name": "ed25519",
+            "description": "Noble ed25519 + ristretto255. Fast, high-security, easily auditable, 0-dep, 1-file pubkey, scalarmult & EDDSA",
+            "star_count": 55
+        },
+        "repository": "https://github.com/paulmillr/noble-ed25519"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denomander",
+            "description": "Deno command-line interfaces made easy",
+            "star_count": 55
+        },
+        "repository": "https://github.com/siokas/denomander"
+    },
+    {
+        "denoModuleResult": {
+            "name": "secp256k1",
+            "description": "Noble secp256k1. Fast, high-security, easily auditable, 0-dep, 1-file pubkey & ECDSA signature scheme",
+            "star_count": 54
+        },
+        "repository": "https://github.com/paulmillr/noble-secp256k1"
+    },
+    {
+        "denoModuleResult": {
+            "name": "bls12_381",
+            "description": "Noble BLS12-381 pairing-friendly curve in JS. High-security, easily auditable, 0-dep aggregated signatures & pubkey",
+            "star_count": 53
+        },
+        "repository": "https://github.com/paulmillr/noble-bls12-381"
+    },
+    {
+        "denoModuleResult": {
+            "name": "dem",
+            "description": "A module version manager for Deno.",
+            "star_count": 52
+        },
+        "repository": "https://github.com/syumai/dem"
+    },
+    {
+        "denoModuleResult": {
+            "name": "env",
+            "description": "A utility for verifying environment variables are present",
+            "star_count": 48
+        },
+        "repository": "https://github.com/humanwhocodes/env"
+    },
+    {
+        "denoModuleResult": {
+            "name": "oak_graphql",
+            "description": "A simple graphql middleware for oak deno framework.",
+            "star_count": 47
+        },
+        "repository": "https://github.com/aaronwlee/oak-graphql"
+    },
+    {
+        "denoModuleResult": {
+            "name": "denoliver",
+            "description": "A simple, dependency free static file server for Deno with possibly the worst name ever.",
+            "star_count": 45
+        },
+        "repository": "https://github.com/joakimunge/denoliver"
+    },
+    {
+        "denoModuleResult": {
+            "name": "websocket",
+            "description": "🦕 A simple WebSocket library like ws of node.js library for deno",
+            "star_count": 41
+        },
+        "repository": "https://github.com/ryo-ma/deno-websocket"
     }
 ]
