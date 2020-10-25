@@ -27,6 +27,8 @@ export async function getModulesMissingInNestLand() {
 
     await Persistence.saveToLocalFile("./synch-deno-registries/modules-missing-on-nest.land.json", JSON.stringify(missing))
 
+    console.log(missing.length)
+
     return missing
 }
 
