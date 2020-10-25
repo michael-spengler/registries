@@ -3,7 +3,7 @@ name: "publish current release to nest.land"
 on:
   release:
     types:
-      - created
+      - published
 
 jobs:
   publishToNestDotLand:
