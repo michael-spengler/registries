@@ -1,8 +1,10 @@
 {
   "name": "",
   "description": "",
+  "homepage": "",
   "files": [
     "./**/*.ts",
     "README.md"
-  ]
+  ],
+  "entry": "./mod.ts"
 }
