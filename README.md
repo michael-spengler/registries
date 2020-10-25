@@ -10,3 +10,6 @@ const repository = await ModuleInfoProvider.getRepository('sleep')
 
 console.log(repository)
 ```
+
+## Contributions
+Contributions are welcome.
