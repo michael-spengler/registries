@@ -1,0 +1,8 @@
+{
+  "name": "registries",
+  "description": "This module helps to synchronize Deno registries - e.g. https://deno.land and https://nest.land",
+  "files": [
+    "./**/*.ts",
+    "README.md"
+  ]
+}
