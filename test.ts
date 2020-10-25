@@ -4,5 +4,7 @@ import { assertEquals } from "https://deno.land/std@0.74.0/testing/asserts.ts";
 Deno.test("get repository", async (): Promise<void> => {
     const repository = await ModuleInfoProvider.getRepository('sleep')
 
+    console.log(repository)
+
     assertEquals('https://github.com/michael-spengler/sleep', repository)
 });
