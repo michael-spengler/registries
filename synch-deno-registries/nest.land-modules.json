@@ -1,5 +1,279 @@
 [
     {
+        "name": "kek",
+        "normalizedName": "kek",
+        "owner": "nikolockenvitz",
+        "description": "This module is a collection of simple scripts that a developer might find handy.",
+        "repository": "https://github.com/hackathon-sidn/deno-kek",
+        "latestVersion": "kek@0.0.7",
+        "latestStableVersion": "kek@0.0.7",
+        "packageUploadNames": [
+            "kek@0.0.6",
+            "kek@0.0.7"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T17:07:14.815Z",
+        "createdAt": "2020-10-25T16:11:52.584Z"
+    },
+    {
+        "name": "cors-proxy",
+        "normalizedName": "cors_proxy",
+        "owner": "nikolockenvitz",
+        "description": "This CORS proxy fetches remote URLs and adds CORS headers so that blocked Cross-Origin requests belong to the past.",
+        "repository": "https://github.com/hackathon-sidn/cors-proxy",
+        "latestVersion": "cors-proxy@0.0.2",
+        "latestStableVersion": "cors-proxy@0.0.2",
+        "packageUploadNames": [
+            "cors-proxy@0.0.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T16:06:49.636Z",
+        "createdAt": "2020-10-25T16:06:47.801Z"
+    },
+    {
+        "name": "testEach",
+        "normalizedName": "testeach",
+        "owner": "littletof",
+        "description": "A testing util to help with running the same tests on a large dataset",
+        "repository": "https://github.com/littletof/testEach",
+        "latestVersion": "testEach@v0.0.2",
+        "latestStableVersion": "testEach@v0.0.2",
+        "packageUploadNames": [
+            "testEach@v0.0.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T16:06:30.725Z",
+        "createdAt": "2020-10-25T16:06:28.960Z"
+    },
+    {
+        "name": "CICD",
+        "normalizedName": "cicd",
+        "owner": "michael",
+        "description": "Deno Module for Continuous Deployment",
+        "repository": "https://github.com/michael-spengler/cicd",
+        "latestVersion": "CICD@v0.7.3",
+        "latestStableVersion": "CICD@v0.7.3",
+        "packageUploadNames": [
+            "CICD@v0.3.1",
+            "CICD@v0.3.2",
+            "CICD@v0.4.1",
+            "CICD@v0.4.2",
+            "CICD@v0.4.3",
+            "CICD@v0.5.1",
+            "CICD@v0.5.4",
+            "CICD@v0.6.0",
+            "CICD@v0.6.1",
+            "CICD@v0.7.1",
+            "CICD@v0.7.3"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T14:49:20.201Z",
+        "createdAt": "2020-10-21T22:14:01.201Z"
+    },
+    {
+        "name": "aleph",
+        "normalizedName": "aleph",
+        "owner": "-ije",
+        "description": "The React Framework in Deno.",
+        "repository": "https://github.com/postui/aleph.js",
+        "latestVersion": "aleph@0.2.15",
+        "latestStableVersion": "aleph@0.2.15",
+        "packageUploadNames": [
+            "aleph@0.2.9",
+            "aleph@0.2.10",
+            "aleph@0.2.11",
+            "aleph@0.2.12",
+            "aleph@0.2.13",
+            "aleph@0.2.14",
+            "aleph@0.2.15"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T14:29:59.982Z",
+        "createdAt": "2020-10-20T12:39:32.814Z"
+    },
+    {
+        "name": "pwchecker",
+        "normalizedName": "pwchecker",
+        "owner": "thaijameslee",
+        "description": "A tool to check the password security.",
+        "repository": null,
+        "latestVersion": "pwchecker@v0.1.1",
+        "latestStableVersion": "pwchecker@v0.1.1",
+        "packageUploadNames": [
+            "pwchecker@v0.1.0",
+            "pwchecker@v0.1.1"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T13:51:32.575Z",
+        "createdAt": "2020-10-24T16:50:30.060Z"
+    },
+    {
+        "name": "kopo",
+        "normalizedName": "kopo",
+        "owner": "littletof",
+        "description": "A Deno registry browser in the terminal",
+        "repository": "https://github.com/littletof/kopo-cli",
+        "latestVersion": "kopo@v0.0.2",
+        "latestStableVersion": null,
+        "packageUploadNames": [
+            "kopo@v0.0.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T13:35:03.883Z",
+        "createdAt": "2020-10-25T13:35:01.706Z"
+    },
+    {
+        "name": "neural_nets",
+        "normalizedName": "neural_nets",
+        "owner": "ravimashru",
+        "description": "Create, train and use neural networks using Typescript in Deno",
+        "repository": "https://github.com/ravimashru/deno-nets",
+        "latestVersion": "neural_nets@0.0.2",
+        "latestStableVersion": "neural_nets@0.0.2",
+        "packageUploadNames": [
+            "neural_nets@0.0.1",
+            "neural_nets@0.0.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T12:42:39.942Z",
+        "createdAt": "2020-10-25T11:42:59.474Z"
+    },
+    {
+        "name": "eggs",
+        "normalizedName": "eggs",
+        "owner": "nest-land",
+        "description": "The CLI used to publish and update modules in nest.land.",
+        "repository": "https://github.com/nestdotland/nest.land",
+        "latestVersion": "eggs@0.3.1",
+        "latestStableVersion": "eggs@0.3.1",
+        "packageUploadNames": [
+            "eggs@0.0.1",
+            "eggs@0.1.0",
+            "eggs@0.1.1",
+            "eggs@0.1.2",
+            "eggs@0.1.3",
+            "eggs@0.1.4",
+            "eggs@0.1.5",
+            "eggs@0.1.6",
+            "eggs@0.1.7",
+            "eggs@0.1.8",
+            "eggs@0.1.9",
+            "eggs@0.1.10",
+            "eggs@0.1.11",
+            "eggs@0.2.0",
+            "eggs@0.2.1",
+            "eggs@0.2.2",
+            "eggs@0.2.3",
+            "eggs@0.3.0",
+            "eggs@0.3.1"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T12:36:01.460Z",
+        "createdAt": "2020-06-13T14:25:52.884Z"
+    },
+    {
+        "name": "registries",
+        "normalizedName": "registries",
+        "owner": "michael",
+        "description": "This module helps to synchronize Deno registries - e.g. https://deno.land and https://nest.land",
+        "repository": null,
+        "latestVersion": "registries@v0.1.2",
+        "latestStableVersion": "registries@v0.1.2",
+        "packageUploadNames": [
+            "registries@v0.1.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T11:13:12.055Z",
+        "createdAt": "2020-10-25T11:13:10.409Z"
+    },
+    {
+        "name": "oak-middleware-jwt",
+        "normalizedName": "oak_middleware_jwt",
+        "owner": "halvardssm",
+        "description": "Oak middleware for JWT validation using djwt",
+        "repository": "https://github.com/halvardssm/oak-middleware-jwt",
+        "latestVersion": "oak-middleware-jwt@1.0.0",
+        "latestStableVersion": null,
+        "packageUploadNames": [
+            "oak-middleware-jwt@1.0.0"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T10:25:37.576Z",
+        "createdAt": "2020-10-25T10:25:35.792Z"
+    },
+    {
+        "name": "countries",
+        "normalizedName": "countries",
+        "owner": "michael",
+        "description": "🦕 module which provides information about countries on earth + mars",
+        "repository": "https://github.com/michael-spengler/countries",
+        "latestVersion": "countries@v1.1.2",
+        "latestStableVersion": null,
+        "packageUploadNames": [
+            "countries@0.1.0",
+            "countries@1.0.0",
+            "countries@v1.1.1",
+            "countries@v1.1.1",
+            "countries@v1.1.2",
+            "countries@v1.1.2"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-25T07:55:41.555Z",
+        "createdAt": "2020-09-08T21:02:39.527Z"
+    },
+    {
+        "name": "cliffy",
+        "normalizedName": "cliffy",
+        "owner": "c4spar",
+        "description": "Command line framework for Deno",
+        "repository": "https://github.com/c4spar/deno-cliffy/",
+        "latestVersion": "cliffy@0.15.0",
+        "latestStableVersion": null,
+        "packageUploadNames": [
+            "cliffy@0.10.0",
+            "cliffy@0.11.0",
+            "cliffy@0.11.1",
+            "cliffy@0.11.2",
+            "cliffy@0.12.0",
+            "cliffy@0.12.1",
+            "cliffy@0.13.0",
+            "cliffy@0.14.0",
+            "cliffy@0.14.1",
+            "cliffy@0.14.2",
+            "cliffy@0.14.3",
+            "cliffy@0.15.0"
+        ],
+        "locked": null,
+        "malicious": null,
+        "unlisted": false,
+        "updatedAt": "2020-10-24T21:44:30.896Z",
+        "createdAt": "2020-07-01T19:45:55.666Z"
+    },
+    {
         "name": "distance-calculator",
         "normalizedName": "distance_calculator",
         "owner": "michael",
@@ -17,47 +291,6 @@
         "unlisted": false,
         "updatedAt": "2020-10-24T19:47:23.235Z",
         "createdAt": "2020-09-07T11:16:22.179Z"
-    },
-    {
-        "name": "CICD",
-        "normalizedName": "cicd",
-        "owner": "michael",
-        "description": "Deno Module for Continuous Deployment",
-        "repository": "https://github.com/michael-spengler/cicd",
-        "latestVersion": "CICD@v0.6.0",
-        "latestStableVersion": "CICD@v0.6.0",
-        "packageUploadNames": [
-            "CICD@v0.3.1",
-            "CICD@v0.3.2",
-            "CICD@v0.4.1",
-            "CICD@v0.4.2",
-            "CICD@v0.4.3",
-            "CICD@v0.5.1",
-            "CICD@v0.5.4",
-            "CICD@v0.6.0"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": false,
-        "updatedAt": "2020-10-24T19:04:18.291Z",
-        "createdAt": "2020-10-21T22:14:01.201Z"
-    },
-    {
-        "name": "pwchecker",
-        "normalizedName": "pwchecker",
-        "owner": "thaijameslee",
-        "description": "A tool to check the password security.",
-        "repository": null,
-        "latestVersion": "pwchecker@v0.1.0",
-        "latestStableVersion": "pwchecker@v0.1.0",
-        "packageUploadNames": [
-            "pwchecker@v0.1.0"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": false,
-        "updatedAt": "2020-10-24T16:50:31.745Z",
-        "createdAt": "2020-10-24T16:50:30.060Z"
     },
     {
         "name": "Discordeno",
@@ -179,61 +412,6 @@
         "createdAt": "2020-06-14T09:07:42.638Z"
     },
     {
-        "name": "eggs",
-        "normalizedName": "eggs",
-        "owner": "nest-land",
-        "description": "The CLI used to publish and update modules in nest.land.",
-        "repository": "https://github.com/nestdotland/nest.land",
-        "latestVersion": "eggs@0.3.0",
-        "latestStableVersion": "eggs@0.3.0",
-        "packageUploadNames": [
-            "eggs@0.0.1",
-            "eggs@0.1.0",
-            "eggs@0.1.1",
-            "eggs@0.1.2",
-            "eggs@0.1.3",
-            "eggs@0.1.4",
-            "eggs@0.1.5",
-            "eggs@0.1.6",
-            "eggs@0.1.7",
-            "eggs@0.1.8",
-            "eggs@0.1.9",
-            "eggs@0.1.10",
-            "eggs@0.1.11",
-            "eggs@0.2.0",
-            "eggs@0.2.1",
-            "eggs@0.2.2",
-            "eggs@0.2.3",
-            "eggs@0.3.0"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": false,
-        "updatedAt": "2020-10-24T10:41:43.888Z",
-        "createdAt": "2020-06-13T14:25:52.884Z"
-    },
-    {
-        "name": "aleph",
-        "normalizedName": "aleph",
-        "owner": "-ije",
-        "description": "The React Framework in Deno.",
-        "repository": "https://github.com/postui/aleph.js",
-        "latestVersion": "aleph@0.2.13",
-        "latestStableVersion": "aleph@0.2.13",
-        "packageUploadNames": [
-            "aleph@0.2.9",
-            "aleph@0.2.10",
-            "aleph@0.2.11",
-            "aleph@0.2.12",
-            "aleph@0.2.13"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": false,
-        "updatedAt": "2020-10-24T07:53:25.269Z",
-        "createdAt": "2020-10-20T12:39:32.814Z"
-    },
-    {
         "name": "velociraptor",
         "normalizedName": "velociraptor",
         "owner": "umbo",
@@ -331,33 +509,6 @@
         "unlisted": false,
         "updatedAt": "2020-10-19T09:23:07.903Z",
         "createdAt": "2020-10-18T13:45:55.501Z"
-    },
-    {
-        "name": "cliffy",
-        "normalizedName": "cliffy",
-        "owner": "c4spar",
-        "description": "Command line framework for Deno",
-        "repository": "https://github.com/c4spar/deno-cliffy/",
-        "latestVersion": "cliffy@0.14.3",
-        "latestStableVersion": null,
-        "packageUploadNames": [
-            "cliffy@0.10.0",
-            "cliffy@0.11.0",
-            "cliffy@0.11.1",
-            "cliffy@0.11.2",
-            "cliffy@0.12.0",
-            "cliffy@0.12.1",
-            "cliffy@0.13.0",
-            "cliffy@0.14.0",
-            "cliffy@0.14.1",
-            "cliffy@0.14.2",
-            "cliffy@0.14.3"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": false,
-        "updatedAt": "2020-10-18T13:15:25.111Z",
-        "createdAt": "2020-07-01T19:45:55.666Z"
     },
     {
         "name": "filedb",
@@ -1626,24 +1777,6 @@
         "unlisted": null,
         "updatedAt": "2020-09-09T11:06:21.939Z",
         "createdAt": "2020-09-09T11:01:02.785Z"
-    },
-    {
-        "name": "countries",
-        "normalizedName": "countries",
-        "owner": "michael",
-        "description": "Provides countrynames, countrycodes and flags",
-        "repository": null,
-        "latestVersion": "countries@1.0.0",
-        "latestStableVersion": null,
-        "packageUploadNames": [
-            "countries@0.1.0",
-            "countries@1.0.0"
-        ],
-        "locked": null,
-        "malicious": null,
-        "unlisted": null,
-        "updatedAt": "2020-09-08T21:08:21.413Z",
-        "createdAt": "2020-09-08T21:02:39.527Z"
     },
     {
         "name": "location",
